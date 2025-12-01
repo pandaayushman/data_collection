@@ -1,3 +1,12 @@
-#*DATA COLLECTION USING ML TECHNIQUES* 
+# 🧠 Data Collection Using Machine Learning Techniques
 
-This is a project where I programatically test various Machine Learning data extraction methods from a dataset.
+This project demonstrates how to **programmatically collect, preprocess, and extract data** from datasets using various **Machine Learning-driven techniques**.  
+It includes code examples, workflows, and scripts that showcase different approaches for:
+- Data extraction  
+- Feature engineering  
+- Data cleaning  
+- Sampling strategies  
+- Automatic labeling  
+- Dataset preparation for ML pipelines  
+
+---

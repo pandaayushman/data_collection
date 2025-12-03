@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+mlxtend
+imblearn
+tensorflow
+opencv-python
+Pillow
+scikit-image
+jupyter
+faker
+ultralytics
+spacy
+speechrecognition
+python-dotenv
